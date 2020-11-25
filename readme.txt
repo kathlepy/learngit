@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 Git is free software ...zzz
 
 xiugai 1 and 2
+git stash
